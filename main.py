@@ -20,10 +20,14 @@ print(число * 10)
 print(число / 10)
 print(8 // 3)
 print(8 % 3)
-
+num = int(input('yvtyty '))
 if 10 < 10:
     print('10 больше 10')
 elif 10 == 10:
     print('числа равны')
+
 else:
     print('10 не больше 10')
+
+
+
